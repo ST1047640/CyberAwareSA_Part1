@@ -1,4 +1,6 @@
-﻿using System;
+// Project: CyberAwareSA
+// Student: ST10477640
+using System;
 using CyberAwareSA.UI;
 using CyberAwareSA.Core;
 
