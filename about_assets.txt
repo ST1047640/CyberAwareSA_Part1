@@ -1,0 +1,1 @@
+This folder contains the audio files and visual assets for the CyberAwareSA bot.
