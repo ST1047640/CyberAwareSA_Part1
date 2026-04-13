@@ -1,4 +1,5 @@
-﻿using System;
+// Logic for processing cybersecurity threats goes here
+using System;
 
 namespace CyberAwareSA.Core
 {
