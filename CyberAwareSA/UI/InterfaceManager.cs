@@ -1,4 +1,5 @@
-﻿using System;
+// This class handles all user input and console output formatting
+using System;
 using System.Media;
 using System.Threading;
 
